@@ -1,2 +1,2 @@
 # Credit Card Fraud Detector
-Credit card fraud detection model
+This notebook aims to create a model that works to minimise 
